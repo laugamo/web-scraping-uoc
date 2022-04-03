@@ -99,6 +99,8 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- ZENODO -->
+DOI: 10.5281/zenodo.6410313
 
 <!-- LICENSE -->
 ## License
