@@ -74,19 +74,21 @@ To run the application please follow the next steps.
 ## Usage
 You can run this application opening Spyder and pressing the Run button to run the main.py script.
 
-You need to specify the use and the password in order to log in in LinkedIn:
+- You need to specify the use and the password in order to log in in LinkedIn:
 
-  email = "replace_your_email_account"
-  password = "replace_your_password_account"
-
-You need to specify the keywords of the type of job offer you are looking for and the location:
-
-  keywords = "Analista de datos"
-  location = "Barcelona"
+  **email** = "replace_your_email_account"
   
-You can also specify the amount of pages you want to fetch the information offers from:
+  **password** = "replace_your_password_account"
 
-  num_pag = 11
+- You need to specify the keywords of the type of job offer you are looking for and the location:
+
+  **keywords** = "Analista de datos"
+  
+  **location** = "Barcelona"
+  
+- You can also specify the amount of pages you want to fetch the information offers from:
+
+  **num_pag** = 11
 
 <!-- ROADMAP -->
 ## Roadmap
