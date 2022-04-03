@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    ![alt text](https://github.com/laugamo/web-scraping-uoc/blob/main/assets/web_scraping_project_image.png?raw=true)
+    ![Alt text](https://github.com/laugamo/web-scraping-uoc/blob/main/assets/web_scraping_project_image.png)
   </a>
 
 
