@@ -8,8 +8,8 @@ driver_path = 'C:\Mis documentos\Màster UOC\Semestre 2\Tipologia i Cicle de Vid
 driver = webdriver.Chrome(executable_path=driver_path)
 
 # Escribim les nostres credencials:
-email = "orioltoll@gmail.com"
-password = "luigi1998"
+email = "replace_your_mail"
+password = "replace_your_password"
 
 # Especifiquem el número de pàgines
 num_pag = 11
