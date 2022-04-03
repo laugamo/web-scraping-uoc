@@ -1,13 +1,7 @@
 # web-scraping-uoc
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-    ![Alt text](https://github.com/laugamo/web-scraping-uoc/blob/main/assets/web_scraping_project_image.png)
-  </a>
-
-
-  <p align="center">
+  <p align="left">
     Application to get job offers information.
   </p>
 </div>
@@ -43,6 +37,8 @@
 
 This project aims to create an application to get information about job offers.
 Its development is in its early stages.
+The idea of making a bot that collects the information of the different offers, arises from the need to avoid looking for this information manually and thus save time for the user. Within Linkedin, in order to create an API that collects this information, you need a Linkedin developer account. For this reason, a Python code is implemented to do this for free.
+It is proposed to search for job vacancies using a keyword and a location. It is interesting to gather information that allows you to filter the most interesting offers for the user. For example, you can get information such as how long these offers take on Linkedin, the type of schedule they ask for, the experience needed to get the job done, and so on.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -75,6 +71,10 @@ To run the application please follow the next steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+You can run this application opening Spyder and pressing the Run button to run the PRA1.py script.
+You need to specify the use and the password in order to log in in LinkedIn.
+You can also specify the amount of pages you want to fetch the information offers from.
+
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -103,7 +103,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the CC BY-SA 4.0 License. See `LICENSE.txt` for more information.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
