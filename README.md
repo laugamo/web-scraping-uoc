@@ -26,6 +26,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#zenodo">Zenodo</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -100,7 +101,10 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- ZENODO -->
-DOI: 10.5281/zenodo.6410313
+## Zenodo
+
+DOI: 10.5281/zenodo.6410316
+
 
 <!-- LICENSE -->
 ## License
