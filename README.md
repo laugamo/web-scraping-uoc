@@ -57,6 +57,8 @@ To run the application please follow the next steps.
 
 1) In order to use this aplicatin you must have a user and password in LinkedIn.
    Both will be required as parameters at the beginning of the main script (main.py)
+   
+2) Download the chromedriver.exe and save it in your local.
 
 
 ### Installation
@@ -74,7 +76,11 @@ To run the application please follow the next steps.
 ## Usage
 You can run this application opening Spyder and pressing the Run button to run the main.py script.
 
-- You need to specify the use and the password in order to log in in LinkedIn:
+- You need to specify the driver path:
+
+  **driver_path** = 'replace_your_driver_path/chromedriver.exe'
+
+- You need to specify the user and the password in order to log in in LinkedIn:
 
   **email** = "replace_your_email_account"
   
