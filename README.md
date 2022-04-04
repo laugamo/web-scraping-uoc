@@ -121,8 +121,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- ZENODO -->
 ## Zenodo
-
-DOI: 10.5281/zenodo.6410316
+DOI del dataset: 10.5281/zenodo.6413079
 
 
 <!-- LICENSE -->
