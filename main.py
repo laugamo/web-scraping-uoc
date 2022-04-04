@@ -4,7 +4,7 @@ import time
 import pandas as pd
 
 # Especifiquem la ruta del Driver de Chrome
-driver_path = 'C:\Mis documentos\Màster UOC\Semestre 2\Tipologia i Cicle de Vida de les Dades\PRAC 1\chromedriver.exe'
+driver_path = 'driver_path\chromedriver.exe'
 driver = webdriver.Chrome(executable_path=driver_path)
 
 # Escribim les nostres credencials:
@@ -91,10 +91,4 @@ data = pd.DataFrame(list(zip(offer, company, location, time_offer, schedule)),
 
 data.to_csv('C:\Mis documentos\Màster UOC\Semestre 2\Tipologia i Cicle de Vida de les Dades\PRAC 1\dades.csv')
 
-# Coses extres per veure:
-# - Intentar agafar el nº de sol·licituds, encara no sé com fer-ho
-# - Igual agafar la descripció de l'oferta
-# - Hem de parlar sobre la quantitat d'ofertes a af¡gafar, ara mateix s'agafen 10 pagines, 250 ofertes,
-#   però igual si n'agafem menys però més variables pot ser interessant també
-    
     
